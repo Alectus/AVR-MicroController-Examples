@@ -8,6 +8,8 @@ The simulations are made with SimulIDE, I use version 0.4.15-SR1 and it can be d
 
 https://www.simulide.com/p/downloads.html
 
+Once downloaded the .simu files can be opened.
+
 More info at this Simulide forum:
 
 https://simulide.forumotion.com/f9-microcontrollers
