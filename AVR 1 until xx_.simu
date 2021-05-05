@@ -1,0 +1,227 @@
+<circuit reactStep="50" Speed_per="100" Simu_Step_nS="1000" animate="1" noLinAcc="5" Speed_sps="1000000" type="simulide_0.4">
+
+Unique  Id: TextComponent-4594: 
+Circuit Id: TextComponent-4594
+<item vflip="1" valLabRot="0" x="-1288" boardRot="-1000000" Show_id="false" labelrot="0" itemtype="TextComponent" Margin="5" valLabelx="0" Text="Fast connect.&#xa;Move component with pins against the other.&#xa;Press CTRL and drag it." rotation="0" circRot="nan" boardPos="-1e+06,-1e+06" mainComp="false" Font="Helvetica [Cronyx]" labelx="-16" y="-1024" Border="1" objectName="TextComponent-4594" hflip="1" Font_Size="10" labely="-24" circPos="0,0" valLabely="0" Fixed_Width="true" id="TextComponent-4594" Opacity="1"/>
+
+Unique  Id: ResistorDip-4593: 
+Circuit Id: ResistorDip-4593
+<item vflip="1" valLabRot="90" x="-1140" Show_res="true" boardRot="-1000000" Show_id="false" labelrot="0" itemtype="ResistorDip" valLabelx="5" rotation="0" circRot="-5.4861292803319049e+303" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-24" y="-1084" objectName="ResistorDip-4593" hflip="1" Resistance="100" labely="-40" circPos="0,0" valLabely="-26" Unit=" Ω" id="ResistorDip-4593" Size="8"/>
+
+Unique  Id: ResistorDip-4592: 
+Circuit Id: ResistorDip-4592
+<item vflip="1" valLabRot="90" x="-1080" Show_res="true" boardRot="-1000000" Show_id="false" labelrot="0" itemtype="ResistorDip" valLabelx="5" rotation="0" circRot="-5.7573271721672978e+307" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-24" y="-1084" objectName="ResistorDip-4592" hflip="1" Resistance="100" labely="-40" circPos="0,0" valLabely="-26" Unit=" Ω" id="ResistorDip-4592" Size="8"/>
+
+Unique  Id: atmega32-4502: 
+Circuit Id: Atmega32
+<item vflip="1" valLabRot="0" x="-1432" boardRot="-1000000" Show_id="true" labelrot="0" itemtype="AVR" Logic_Symbol="false" valLabelx="0" rotation="0" circRot="1.1211748698046906e-316" boardPos="-1e+06,-1e+06" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" mainComp="false" Program="../../../../Documents/Microchip Studio/AVR_CD/AVR1_BlinkLed/AVR1_BlinkLed/Debug/AVR1_BlinkLed.hex" labelx="0" y="-1116" Auto_Load="false" objectName="atmega32-4502" hflip="1" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," labely="-20" circPos="0,0" valLabely="0" Mhz="1" Init_gdb="false" id="Atmega32"/>
+
+Unique  Id: TextComponent-29: 
+Circuit Id: TextComponent-311
+<item vflip="1" valLabRot="0" x="-1448" boardRot="-1000000" Show_id="false" labelrot="0" itemtype="TextComponent" Margin="5" valLabelx="0" Text="AVR 1 Blink Led&#xa;working" rotation="0" circRot="nan" boardPos="-1e+06,-1e+06" mainComp="false" Font="Helvetica [Cronyx]" labelx="-16" y="-888" Border="1" objectName="TextComponent-29" hflip="1" Font_Size="10" labely="-24" circPos="0,0" valLabely="0" Fixed_Width="false" id="TextComponent-311" Opacity="1"/>
+
+Unique  Id: SwitchDip-2147: 
+Circuit Id: SwitchDip-152
+<item vflip="1" valLabRot="0" x="-1328" boardRot="-1000000" Show_id="false" labelrot="0" itemtype="SwitchDip" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1084" objectName="SwitchDip-2147" hflip="-1" labely="-44" circPos="0,0" valLabely="0" id="SwitchDip-152" State="1048575" Size="20"/>
+
+Unique  Id: Rectangle-2148: 
+Circuit Id: Atmega32
+<item vflip="1" Color="#a0a0a4" valLabRot="0" x="-1408" boardRot="-1000000" Show_id="true" labelrot="0" itemtype="Rectangle" valLabelx="0" rotation="0" circRot="1.2870188337502619e-315" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-22" y="-1032" Border="2" objectName="Rectangle-2148" hflip="1" H_size="50" V_size="168" labely="-10" circPos="0,0" valLabely="0" Z_Value="-1" id="Atmega32" Opacity="1"/>
+
+Unique  Id: Fixed Voltage-2149: 
+Circuit Id: /Mclr
+<item vflip="1" valLabRot="0" x="-1416" Out="true" boardRot="-1000000" Show_id="true" labelrot="0" itemtype="Fixed Voltage" valLabelx="5" rotation="0" circRot="5.4323092267683092e-312" boardPos="-1e+06,-1e+06" mainComp="false" labelx="45" y="-1148" objectName="Fixed Voltage-2149" hflip="-1" labely="-18" circPos="0,0" valLabely="-21" Unit=" V" Voltage="5" Show_Volt="true" id="/Mclr"/>
+
+Unique  Id: SwitchDip-2150: 
+Circuit Id: SwitchDip-152
+<item vflip="1" valLabRot="0" x="-1488" boardRot="-1000000" Show_id="false" labelrot="0" itemtype="SwitchDip" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1084" objectName="SwitchDip-2150" hflip="1" labely="-44" circPos="0,0" valLabely="0" id="SwitchDip-152" State="1048575" Size="20"/>
+
+Unique  Id: LedBar-4545: 
+Circuit Id: LedBar-4545
+<item vflip="1" Color="0" valLabRot="0" x="-1548" boardRot="-1000000" Show_id="false" labelrot="0" itemtype="LedBar" Grounded="true" valLabelx="0" rotation="0" circRot="nan" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-980" MaxCurrent="0.029999999999999999" objectName="LedBar-4545" hflip="-1" Resistance="75" labely="-44" circPos="0,0" valLabely="0" Threshold="2.3999999999999999" id="LedBar-4545" Size="8"/>
+
+Unique  Id: Connector-4503: 
+Circuit Id: Connector-4503
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB0" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4546" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1108" objectName="Connector-4503" hflip="1" pointList="-1440,-1108,-1472,-1108" labely="-24" circPos="0,0" valLabely="0" id="Connector-4503" endpinid="SwitchDip-2150-switch0-pinN"/>
+
+Unique  Id: Connector-4504: 
+Circuit Id: Connector-4504
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB1" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4547" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1100" objectName="Connector-4504" hflip="1" pointList="-1440,-1100,-1472,-1100" labely="-24" circPos="0,0" valLabely="0" id="Connector-4504" endpinid="SwitchDip-2150-switch1-pinN"/>
+
+Unique  Id: Connector-4505: 
+Circuit Id: Connector-4505
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB2" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4548" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1092" objectName="Connector-4505" hflip="1" pointList="-1440,-1092,-1472,-1092" labely="-24" circPos="0,0" valLabely="0" id="Connector-4505" endpinid="SwitchDip-2150-switch2-pinN"/>
+
+Unique  Id: Connector-4506: 
+Circuit Id: Connector-4506
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB3" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4549" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1084" objectName="Connector-4506" hflip="1" pointList="-1440,-1084,-1472,-1084" labely="-24" circPos="0,0" valLabely="0" id="Connector-4506" endpinid="SwitchDip-2150-switch3-pinN"/>
+
+Unique  Id: Connector-4507: 
+Circuit Id: Connector-4507
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB4" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4550" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1076" objectName="Connector-4507" hflip="1" pointList="-1440,-1076,-1472,-1076" labely="-24" circPos="0,0" valLabely="0" id="Connector-4507" endpinid="SwitchDip-2150-switch4-pinN"/>
+
+Unique  Id: Connector-4508: 
+Circuit Id: Connector-4508
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB5" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4551" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1068" objectName="Connector-4508" hflip="1" pointList="-1440,-1068,-1472,-1068" labely="-24" circPos="0,0" valLabely="0" id="Connector-4508" endpinid="SwitchDip-2150-switch5-pinN"/>
+
+Unique  Id: Connector-4509: 
+Circuit Id: Connector-4509
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB6" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4552" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1060" objectName="Connector-4509" hflip="1" pointList="-1440,-1060,-1472,-1060" labely="-24" circPos="0,0" valLabely="0" id="Connector-4509" endpinid="SwitchDip-2150-switch6-pinN"/>
+
+Unique  Id: Connector-4510: 
+Circuit Id: Connector-4510
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PB7" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4553" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1052" objectName="Connector-4510" hflip="1" pointList="-1440,-1052,-1472,-1052" labely="-24" circPos="0,0" valLabely="0" id="Connector-4510" endpinid="SwitchDip-2150-switch7-pinN"/>
+
+Unique  Id: Connector-4511: 
+Circuit Id: Connector-4511
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-RST" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4554" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1044" objectName="Connector-4511" hflip="1" pointList="-1440,-1044,-1472,-1044" labely="-24" circPos="0,0" valLabely="0" id="Connector-4511" endpinid="SwitchDip-2150-switch8-pinN"/>
+
+Unique  Id: Connector-4514: 
+Circuit Id: Connector-4514
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-OSC2" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4555" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1020" objectName="Connector-4514" hflip="1" pointList="-1440,-1020,-1472,-1020" labely="-24" circPos="0,0" valLabely="0" id="Connector-4514" endpinid="SwitchDip-2150-switch11-pinN"/>
+
+Unique  Id: Connector-4515: 
+Circuit Id: Connector-4515
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-OSC1" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4556" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1012" objectName="Connector-4515" hflip="1" pointList="-1440,-1012,-1472,-1012" labely="-24" circPos="0,0" valLabely="0" id="Connector-4515" endpinid="SwitchDip-2150-switch12-pinN"/>
+
+Unique  Id: Connector-4516: 
+Circuit Id: Connector-4516
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PD0" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4557" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1004" objectName="Connector-4516" hflip="1" pointList="-1440,-1004,-1472,-1004" labely="-24" circPos="0,0" valLabely="0" id="Connector-4516" endpinid="SwitchDip-2150-switch13-pinN"/>
+
+Unique  Id: Connector-4517: 
+Circuit Id: Connector-4517
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PD1" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4558" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-996" objectName="Connector-4517" hflip="1" pointList="-1440,-996,-1472,-996" labely="-24" circPos="0,0" valLabely="0" id="Connector-4517" endpinid="SwitchDip-2150-switch14-pinN"/>
+
+Unique  Id: Connector-4518: 
+Circuit Id: Connector-4518
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PD2" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4559" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-988" objectName="Connector-4518" hflip="1" pointList="-1440,-988,-1472,-988" labely="-24" circPos="0,0" valLabely="0" id="Connector-4518" endpinid="SwitchDip-2150-switch15-pinN"/>
+
+Unique  Id: Connector-4519: 
+Circuit Id: Connector-4519
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PD3" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4560" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-980" objectName="Connector-4519" hflip="1" pointList="-1440,-980,-1472,-980" labely="-24" circPos="0,0" valLabely="0" id="Connector-4519" endpinid="SwitchDip-2150-switch16-pinN"/>
+
+Unique  Id: Connector-4520: 
+Circuit Id: Connector-4520
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PD4" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4561" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-972" objectName="Connector-4520" hflip="1" pointList="-1440,-972,-1472,-972" labely="-24" circPos="0,0" valLabely="0" id="Connector-4520" endpinid="SwitchDip-2150-switch17-pinN"/>
+
+Unique  Id: Connector-4521: 
+Circuit Id: Connector-4521
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PD5" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4562" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-964" objectName="Connector-4521" hflip="1" pointList="-1440,-964,-1472,-964" labely="-24" circPos="0,0" valLabely="0" id="Connector-4521" endpinid="SwitchDip-2150-switch18-pinN"/>
+
+Unique  Id: Connector-4522: 
+Circuit Id: Connector-4522
+<item vflip="1" valLabRot="0" x="-1440" boardRot="-1000000" startpinid="atmega32-4502-PD6" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4563" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-956" objectName="Connector-4522" hflip="1" pointList="-1440,-956,-1472,-956" labely="-24" circPos="0,0" valLabely="0" id="Connector-4522" endpinid="SwitchDip-2150-switch19-pinN"/>
+
+Unique  Id: Connector-4523: 
+Circuit Id: Connector-4523
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PD7" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4564" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-956" objectName="Connector-4523" hflip="1" pointList="-1376,-956,-1344,-956" labely="-24" circPos="0,0" valLabely="0" id="Connector-4523" endpinid="SwitchDip-2147-switch19-pinN"/>
+
+Unique  Id: Connector-4524: 
+Circuit Id: Connector-4524
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC0" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4565" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-964" objectName="Connector-4524" hflip="1" pointList="-1376,-964,-1344,-964" labely="-24" circPos="0,0" valLabely="0" id="Connector-4524" endpinid="SwitchDip-2147-switch18-pinN"/>
+
+Unique  Id: Connector-4525: 
+Circuit Id: Connector-4525
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC1" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4566" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-972" objectName="Connector-4525" hflip="1" pointList="-1376,-972,-1344,-972" labely="-24" circPos="0,0" valLabely="0" id="Connector-4525" endpinid="SwitchDip-2147-switch17-pinN"/>
+
+Unique  Id: Connector-4526: 
+Circuit Id: Connector-4526
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC2" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4567" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-980" objectName="Connector-4526" hflip="1" pointList="-1376,-980,-1344,-980" labely="-24" circPos="0,0" valLabely="0" id="Connector-4526" endpinid="SwitchDip-2147-switch16-pinN"/>
+
+Unique  Id: Connector-4527: 
+Circuit Id: Connector-4527
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC3" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4568" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-988" objectName="Connector-4527" hflip="1" pointList="-1376,-988,-1344,-988" labely="-24" circPos="0,0" valLabely="0" id="Connector-4527" endpinid="SwitchDip-2147-switch15-pinN"/>
+
+Unique  Id: Connector-4528: 
+Circuit Id: Connector-4528
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC4" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4569" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-996" objectName="Connector-4528" hflip="1" pointList="-1376,-996,-1344,-996" labely="-24" circPos="0,0" valLabely="0" id="Connector-4528" endpinid="SwitchDip-2147-switch14-pinN"/>
+
+Unique  Id: Connector-4529: 
+Circuit Id: Connector-4529
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC5" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4570" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1004" objectName="Connector-4529" hflip="1" pointList="-1376,-1004,-1344,-1004" labely="-24" circPos="0,0" valLabely="0" id="Connector-4529" endpinid="SwitchDip-2147-switch13-pinN"/>
+
+Unique  Id: Connector-4530: 
+Circuit Id: Connector-4530
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC6" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4571" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1012" objectName="Connector-4530" hflip="1" pointList="-1376,-1012,-1344,-1012" labely="-24" circPos="0,0" valLabely="0" id="Connector-4530" endpinid="SwitchDip-2147-switch12-pinN"/>
+
+Unique  Id: Connector-4531: 
+Circuit Id: Connector-4531
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PC7" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4572" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1020" objectName="Connector-4531" hflip="1" pointList="-1376,-1020,-1344,-1020" labely="-24" circPos="0,0" valLabely="0" id="Connector-4531" endpinid="SwitchDip-2147-switch11-pinN"/>
+
+Unique  Id: Connector-4532: 
+Circuit Id: Connector-4532
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-AVCC" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4573" valLabelx="0" rotation="0" circRot="8.5940829554103187e-312" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1028" objectName="Connector-4532" hflip="1" pointList="-1376,-1028,-1344,-1028" labely="-24" circPos="0,0" valLabely="0" id="Connector-4532" endpinid="SwitchDip-2147-switch10-pinN"/>
+
+Unique  Id: Connector-4534: 
+Circuit Id: Connector-4534
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-AREF" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4574" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1044" objectName="Connector-4534" hflip="1" pointList="-1376,-1044,-1344,-1044" labely="-24" circPos="0,0" valLabely="0" id="Connector-4534" endpinid="SwitchDip-2147-switch8-pinN"/>
+
+Unique  Id: Connector-4535: 
+Circuit Id: Connector-4535
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA7" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4575" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1052" objectName="Connector-4535" hflip="1" pointList="-1376,-1052,-1344,-1052" labely="-24" circPos="0,0" valLabely="0" id="Connector-4535" endpinid="SwitchDip-2147-switch7-pinN"/>
+
+Unique  Id: Connector-4536: 
+Circuit Id: Connector-4536
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA6" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4576" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1060" objectName="Connector-4536" hflip="1" pointList="-1376,-1060,-1344,-1060" labely="-24" circPos="0,0" valLabely="0" id="Connector-4536" endpinid="SwitchDip-2147-switch6-pinN"/>
+
+Unique  Id: Connector-4537: 
+Circuit Id: Connector-4537
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA5" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4577" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1068" objectName="Connector-4537" hflip="1" pointList="-1376,-1068,-1344,-1068" labely="-24" circPos="0,0" valLabely="0" id="Connector-4537" endpinid="SwitchDip-2147-switch5-pinN"/>
+
+Unique  Id: Connector-4538: 
+Circuit Id: Connector-4538
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA4" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4578" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1076" objectName="Connector-4538" hflip="1" pointList="-1376,-1076,-1344,-1076" labely="-24" circPos="0,0" valLabely="0" id="Connector-4538" endpinid="SwitchDip-2147-switch4-pinN"/>
+
+Unique  Id: Connector-4539: 
+Circuit Id: Connector-4539
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA3" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4579" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1084" objectName="Connector-4539" hflip="1" pointList="-1376,-1084,-1344,-1084" labely="-24" circPos="0,0" valLabely="0" id="Connector-4539" endpinid="SwitchDip-2147-switch3-pinN"/>
+
+Unique  Id: Connector-4540: 
+Circuit Id: Connector-4540
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA2" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4580" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1092" objectName="Connector-4540" hflip="1" pointList="-1376,-1092,-1344,-1092" labely="-24" circPos="0,0" valLabely="0" id="Connector-4540" endpinid="SwitchDip-2147-switch2-pinN"/>
+
+Unique  Id: Connector-4541: 
+Circuit Id: Connector-4541
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA1" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4581" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1100" objectName="Connector-4541" hflip="1" pointList="-1376,-1100,-1344,-1100" labely="-24" circPos="0,0" valLabely="0" id="Connector-4541" endpinid="SwitchDip-2147-switch1-pinN"/>
+
+Unique  Id: Connector-4542: 
+Circuit Id: Connector-4542
+<item vflip="1" valLabRot="0" x="-1376" boardRot="-1000000" startpinid="atmega32-4502-PA0" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4582" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1108" objectName="Connector-4542" hflip="1" pointList="-1376,-1108,-1344,-1108" labely="-24" circPos="0,0" valLabely="0" id="Connector-4542" endpinid="SwitchDip-2147-switch0-pinN"/>
+
+Unique  Id: Connector-4544: 
+Circuit Id: Connector-4544
+<item vflip="1" valLabRot="0" x="-1432" boardRot="-1000000" startpinid="Fixed Voltage-2149-outnod" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4583" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1148" objectName="Connector-4544" hflip="1" pointList="-1432,-1148,-1536,-1148,-1536,-1044,-1496,-1044" labely="-24" circPos="0,0" valLabely="0" id="Connector-4544" endpinid="SwitchDip-2150-switch8-pinP"/>
+
+Unique  Id: Connector-4546: 
+Circuit Id: Connector-4546
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led0-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4584" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-1004" objectName="Connector-4546" hflip="1" pointList="-1532,-1004,-1496,-1004" labely="-24" circPos="0,0" valLabely="0" id="Connector-4546" endpinid="SwitchDip-2150-switch13-pinP"/>
+
+Unique  Id: Connector-4547: 
+Circuit Id: Connector-4547
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led1-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4585" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-996" objectName="Connector-4547" hflip="1" pointList="-1532,-996,-1496,-996" labely="-24" circPos="0,0" valLabely="0" id="Connector-4547" endpinid="SwitchDip-2150-switch14-pinP"/>
+
+Unique  Id: Connector-4548: 
+Circuit Id: Connector-4548
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led2-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4586" valLabelx="0" rotation="0" circRot="3.1152867448590851e-307" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-988" objectName="Connector-4548" hflip="1" pointList="-1532,-988,-1496,-988" labely="-24" circPos="0,0" valLabely="0" id="Connector-4548" endpinid="SwitchDip-2150-switch15-pinP"/>
+
+Unique  Id: Connector-4549: 
+Circuit Id: Connector-4549
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led3-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4587" valLabelx="0" rotation="0" circRot="4.025206752084773e+270" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-980" objectName="Connector-4549" hflip="1" pointList="-1532,-980,-1496,-980" labely="-24" circPos="0,0" valLabely="0" id="Connector-4549" endpinid="SwitchDip-2150-switch16-pinP"/>
+
+Unique  Id: Connector-4550: 
+Circuit Id: Connector-4550
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led4-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4588" valLabelx="0" rotation="0" circRot="8.3172756025414519e-212" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-972" objectName="Connector-4550" hflip="1" pointList="-1532,-972,-1496,-972" labely="-24" circPos="0,0" valLabely="0" id="Connector-4550" endpinid="SwitchDip-2150-switch17-pinP"/>
+
+Unique  Id: Connector-4551: 
+Circuit Id: Connector-4551
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led5-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4589" valLabelx="0" rotation="0" circRot="1.6021849139241294e-306" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-964" objectName="Connector-4551" hflip="1" pointList="-1532,-964,-1496,-964" labely="-24" circPos="0,0" valLabely="0" id="Connector-4551" endpinid="SwitchDip-2150-switch18-pinP"/>
+
+Unique  Id: Connector-4552: 
+Circuit Id: Connector-4552
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led6-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4590" valLabelx="0" rotation="0" circRot="7.5660388152633227e-307" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-956" objectName="Connector-4552" hflip="1" pointList="-1532,-956,-1496,-956" labely="-24" circPos="0,0" valLabely="0" id="Connector-4552" endpinid="SwitchDip-2150-switch19-pinP"/>
+
+Unique  Id: Connector-4553: 
+Circuit Id: Connector-4553
+<item vflip="1" valLabRot="0" x="-1532" boardRot="-1000000" startpinid="LedBar-4545-led7-pinP" Show_id="false" labelrot="0" itemtype="Connector" enodeid="Circ_eNode-4591" valLabelx="0" rotation="0" circRot="0" boardPos="-1e+06,-1e+06" mainComp="false" labelx="-16" y="-948" objectName="Connector-4553" hflip="1" pointList="-1532,-948,-1512,-948,-1512,-924,-1288,-924,-1288,-956,-1320,-956" labely="-24" circPos="0,0" valLabely="0" id="Connector-4553" endpinid="SwitchDip-2147-switch19-pinP"/>
+ 
+</circuit>
