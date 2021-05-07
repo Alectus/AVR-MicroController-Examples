@@ -1,6 +1,6 @@
 # AVR-MicroController-Examples
 
-The examples are taken from Circuit Digest:
+The examples are mostly taken from Circuit Digest
 
 https://circuitdigest.com/avr-microcontroller-projects?page=4
 
